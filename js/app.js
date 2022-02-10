@@ -55,7 +55,7 @@ function activeWhenScroll(sections, navLinks) {
 		root: null,
 		rootMargin: '0px',
 		threshold: 0.63,
-        behavior:smooth,
+        behavior: "smooth",
 	};
 	
 	for (let i = 0; i < sections.length; i++) {
